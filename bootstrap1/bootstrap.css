@@ -1,0 +1,63 @@
+/* Global Styles */
+body {
+  background-color: rgb(32, 31, 31);
+}
+
+.navbar-brand, .nav-link, .navbar-toggler, .navbar-custom{
+  color: whitesmoke;
+}
+
+.bagian1{
+  height:300px; 
+  width:100vw; 
+  padding:15px; 
+  box-sizing:border-box;
+}
+
+.head1{
+ height: 280px;
+ width: 30vw;
+ padding: 15px;
+ border-radius: 3%;
+ margin-top: 20px;
+}
+
+.head-released{
+  margin-top: 15px;
+  color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+  display: flex
+}
+.card-design{
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.card-link{
+  color: whitesmoke;
+}
+
+.bagian2, .bagian3, .bagian4{
+  margin-top: 35px;
+}
+
+.card-link2{
+  color: rgb(98, 98, 255);
+}
+
+.card-img-top{
+  height:170px; 
+  object-fit:cover
+}
+
+footer{
+  margin-top: 35px;
+  padding: 10px;
+  margin-top: 15px;
+  color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+  display: flex
+}
+
